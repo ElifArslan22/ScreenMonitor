@@ -1,0 +1,16 @@
+C:\Users\acer\Desktop\STAJ\OfisEkranGörüntüsü\obj\Debug\net8.0-windows\OfisEkranGörüntüsü.Form1.resources
+C:\Users\acer\Desktop\STAJ\OfisEkranGörüntüsü\obj\Debug\net8.0-windows\OfisEkranGörüntüsü.csproj.GenerateResource.cache
+C:\Users\acer\Desktop\STAJ\OfisEkranGörüntüsü\obj\Debug\net8.0-windows\OfisEkranGörüntüsü.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\Desktop\STAJ\OfisEkranGörüntüsü\obj\Debug\net8.0-windows\OfisEkranGörüntüsü.AssemblyInfoInputs.cache
+C:\Users\acer\Desktop\STAJ\OfisEkranGörüntüsü\obj\Debug\net8.0-windows\OfisEkranGörüntüsü.AssemblyInfo.cs
+C:\Users\acer\Desktop\STAJ\OfisEkranGörüntüsü\obj\Debug\net8.0-windows\OfisEkranGörüntüsü.csproj.CoreCompileInputs.cache
+C:\Users\acer\Desktop\STAJ\OfisEkranGörüntüsü\bin\Debug\net8.0-windows\OfisEkranGörüntüsü.exe
+C:\Users\acer\Desktop\STAJ\OfisEkranGörüntüsü\bin\Debug\net8.0-windows\OfisEkranGörüntüsü.deps.json
+C:\Users\acer\Desktop\STAJ\OfisEkranGörüntüsü\bin\Debug\net8.0-windows\OfisEkranGörüntüsü.runtimeconfig.json
+C:\Users\acer\Desktop\STAJ\OfisEkranGörüntüsü\bin\Debug\net8.0-windows\OfisEkranGörüntüsü.dll
+C:\Users\acer\Desktop\STAJ\OfisEkranGörüntüsü\bin\Debug\net8.0-windows\OfisEkranGörüntüsü.pdb
+C:\Users\acer\Desktop\STAJ\OfisEkranGörüntüsü\obj\Debug\net8.0-windows\OfisEkranGörüntüsü.dll
+C:\Users\acer\Desktop\STAJ\OfisEkranGörüntüsü\obj\Debug\net8.0-windows\refint\OfisEkranGörüntüsü.dll
+C:\Users\acer\Desktop\STAJ\OfisEkranGörüntüsü\obj\Debug\net8.0-windows\OfisEkranGörüntüsü.pdb
+C:\Users\acer\Desktop\STAJ\OfisEkranGörüntüsü\obj\Debug\net8.0-windows\OfisEkranGörüntüsü.genruntimeconfig.cache
+C:\Users\acer\Desktop\STAJ\OfisEkranGörüntüsü\obj\Debug\net8.0-windows\ref\OfisEkranGörüntüsü.dll
